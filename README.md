@@ -1,7 +1,7 @@
 
 
-AI research assistant for academics, rewritten as a **100% Python** app (no Node.js, no Rust/Tauri, no React).
-All AI runs on **Google Gemini** models through your Google API key.
+AI research assistant for academicS
+
 
 ## Features
 | Page | What it does |
